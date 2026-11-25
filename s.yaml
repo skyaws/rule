@@ -2,6 +2,11 @@ payload:
   - DOMAIN-SUFFIX,jdforrepam.com
   - DOMAIN-SUFFIX,c0.jdbstatic.com
   - DOMAIN-SUFFIX,tp.spfcas.com
+  - DOMAIN-SUFFIX,jav.app
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,jdbimgs.com
+  - DOMAIN-SUFFIX,jdbstatic.com
+
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,tradingview.com
   - IP-CIDR,47.239.145.80,no-resolve
