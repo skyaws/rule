@@ -14,7 +14,8 @@ payload:
   - DOMAIN,www.69shuba.com
   - DOMAIN,www.cool18.com
   - DOMAIN,image.tmdb.org
-  - DOMAIN,mobileapp.comic-walker.com    - DOMAIN,sh.mangafunb.fun
+  - DOMAIN,mobileapp.comic-walker.com
+  - DOMAIN,sh.mangafunb.fun
   - DOMAIN,ai.wulii.de5.net
   - DOMAIN,hanime1.me
   - DOMAIN,rouman5.com
