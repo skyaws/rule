@@ -1,12 +1,6 @@
 payload:
-  - DOMAIN,69shuba.com
-  - DOMAIN,godamh.com
-  - DOMAIN,twkan.com
-  - DOMAIN,happymh.com
-  - DOMAIN,m.happymh.com
-  - DOMAIN,yfamilys.com
-  - DOMAIN,linux.do
-  - DOMAIN,bgm.tv
-  - DOMAIN,www.69shuba.com
-  - DOMAIN,www.cool18.com
-  - DOMAIN,image.tmdb.org
+  - DOMAIN-SUFFIX,jdforrepam.com
+  - DOMAIN-SUFFIX,c0.jdbstatic.com
+  - DOMAIN-SUFFIX,tp.spfcas.com
+  - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-SUFFIX,tradingview.com
