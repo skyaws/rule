@@ -1,7 +1,29 @@
 payload:
-		- DOMAIN-SUFFIX,wallhaven.cc
-		- DOMAIN-SUFFIX,olelive.com
-		- DOMAIN-SUFFIX,baozimh.org
-		- DOMAIN-SUFFIX,huangguoai.com
-		- DOMAIN-SUFFIX,pics.dmm.co.jp
-		- DOMAIN-SUFFIX,awsimgsrc.dmm.co.jp
+  - DOMAIN,www.cool18.com
+  - DOMAIN,cool168.win
+  - DOMAIN,www.jjmh.top
+  - DOMAIN,yyue.lyezi.cc
+  - DOMAIN,69shuba.com
+  - DOMAIN,godamh.com
+  - DOMAIN,twkan.com
+  - DOMAIN,happymh.com
+  - DOMAIN,m.happymh.com
+  - DOMAIN,yfamilys.com
+  - DOMAIN,linux.do
+  - DOMAIN,bgm.tv
+  - DOMAIN,www.69shuba.com
+  - DOMAIN,www.cool18.com
+  - DOMAIN,image.tmdb.org
+  - DOMAIN,mobileapp.comic-walker.com    - DOMAIN,sh.mangafunb.fun
+  - DOMAIN,ai.wulii.de5.net
+  - DOMAIN,hanime1.me
+  - DOMAIN,rouman5.com
+  - DOMAIN,sxsy37.com
+  - DOMAIN,sxsy33.com
+  - DOMAIN,sxsy.org
+  - DOMAIN-SUFFIX,wallhaven.cc
+	- DOMAIN-SUFFIX,olelive.com
+	- DOMAIN-SUFFIX,baozimh.org
+	- DOMAIN-SUFFIX,huangguoai.com
+	- DOMAIN-SUFFIX,pics.dmm.co.jp
+	- DOMAIN-SUFFIX,awsimgsrc.dmm.co.jp
